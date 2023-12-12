@@ -25,5 +25,8 @@ Ambos, el backend y el frontend, han sido desplegados utilizando instancias de A
 Para la automatización del despliegue utilizamos GitHub Actions, lo que nos permite actualizar nuestras instancias de forma eficiente y segura con cada nuevo commit en el repositorio.
 
 ---
+##  Credenciales admin:
 
+user: matiasalas.e@gmail.com 
+pass: matie3012
 
