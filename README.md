@@ -30,3 +30,5 @@ Para la automatización del despliegue utilizamos GitHub Actions, lo que nos per
 user: matiasalas.e@gmail.com 
 pass: matie3012
 
+User: LuisCedeno995@gmail.com
+password:Dhinter1818
